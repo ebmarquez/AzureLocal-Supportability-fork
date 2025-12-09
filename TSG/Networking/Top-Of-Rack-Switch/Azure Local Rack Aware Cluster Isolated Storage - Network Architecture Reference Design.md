@@ -28,7 +28,7 @@ author: Eric Marquez
 # Azure Local Rack Aware Cluster Isolated Storage - Network Architecture Reference Design
 
 ---
-![](attachment/3064000a3ac6b5e78a897b83420793e7.png)
+![](/TSG/Networking/Top-Of-Rack-Switch/images/3064000a3ac6b5e78a897b83420793e7.png)
 
 ## Table of Contents
 
