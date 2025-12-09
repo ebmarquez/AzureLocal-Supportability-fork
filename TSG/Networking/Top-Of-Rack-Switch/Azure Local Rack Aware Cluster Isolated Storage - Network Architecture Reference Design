@@ -22,16 +22,10 @@ type:
   - Architecture
   - Design
   - Reference
-date created: Wednesday, December 3rd 2025, 8:19:44 am
-date modified: Tuesday, December 9th 2025, 11:02:51 am
+author: Eric Marquez
 ---
 
 # Azure Local Rack Aware Cluster Isolated Storage - Network Architecture Reference Design
-
-**Design Variant**: Isolated Storage (Option A)  
-**Document Version**: 1.2  
-**Last Updated**: December 3, 2025  
-**Authors**: Eric Marquez
 
 ---
 ![](attachment/3064000a3ac6b5e78a897b83420793e7.png)
